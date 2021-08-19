@@ -1,17 +1,6 @@
-## Pasos de instalación
+## Motivo
 
-Ejecutar
+Este repositorio sirve para probar cosas ome' 
 
-``
-npm install
 
-``
-
-## Por omitir
-
-Debemos de omitir estos archivos y carpetas
-
-node_modules
-.log
-.editorconfig 
 
