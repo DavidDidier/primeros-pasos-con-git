@@ -1,6 +1,6 @@
-## Motivo
+## Notas 
 
-Este repositorio sirve para probar cosas ome' 
+Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
 
